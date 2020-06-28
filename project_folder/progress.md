@@ -13,6 +13,6 @@
     - git documentation
     
 - extra remark 
-    looking forward to complete all the task for this developer week!
+   - looking forward to complete all the task for this developer week!
 
 **Repeat this for all 7 days**
